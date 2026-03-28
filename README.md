@@ -1,8 +1,8 @@
 ## Description
 
-Laboratory work on relational databases at St. Petersburg Electrotechnical
-University at Applied Mathematics and Computer Science program in the 5th
-semester in 2025.
+Laboratory work on programming at St. Petersburg Electrotechnical
+University at Applied Mathematics and Computer Science program in the 1th
+semester in 2023.
 
 It contains an impenetrable text reading mechanism (in my opinion), each
 element of the text is a structure (the structure of a word, sentence and
